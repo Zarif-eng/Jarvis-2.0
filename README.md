@@ -1,7 +1,7 @@
 # Jarvis 2.0 — design
 
 A ground-up redesign of my self-hosted voice assistant
-([v1.0 is here, built and measured](https://github.com/Zarif-eng/jarvis-1.0)), rebuilt around one finding from
+([v1.0 is here, built and measured](https://github.com/Zarif-eng/Jarvis-1.0)), rebuilt around one finding from
 actually living with the first version:
 
 > **Most of the commands I actually gave it didn't need a language model at all.**
